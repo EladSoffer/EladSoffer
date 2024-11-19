@@ -68,5 +68,5 @@
 
 ## 🌐 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elad%20Soffer-blue)]([your-linkedin-url](https://www.linkedin.com/in/elad-soffer-532468177/)) 
-- [![Gmail](https://img.shields.io/badge/Gmail-your_email@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elad10101234@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-elad10101234@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elad10101234@gmail.com)
 
