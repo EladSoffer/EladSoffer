@@ -65,6 +65,5 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elad%20Soffer-blue)](your-linkedin-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue)](your-twitter-url)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elad%20Soffer-blue)]([your-linkedin-url](https://www.linkedin.com/in/elad-soffer-532468177/))  
+
