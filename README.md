@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Elad Soffer!
 
 ## 👨‍💻 About Me
-- 🌟 **Passionate Developer**: Specializing in **React Native**, **Firebase**, and crafting impactful applications.  
-- 🚀 **Innovative Creator**: Developing an app featuring motivational English quotes to educate and inspire users worldwide.  
-- 🎓 **Quantum Mechanics Enthusiast**: Currently exploring **Quantum Mechanics II**, delving into advanced topics like perturbation theory and system decay.
+- 🌟 **Motivated and Passionate Developer**: I thrive on tackling challenges and continuously learning new technologies to create impactful solutions.  
+- 🎓 **Fourth-Year Physics and Computer Science Student**: Pursuing a double major in Physics and Computer Science, sharpening my analytical skills and problem-solving abilities through academic and practical projects.  
+- 🚀 **Innovative Creator**: Currently building a motivational quotes app to inspire users and enhance their English skills through interactive features.  
+- 💻 **Enthusiast in Computers and Physics**: Deeply passionate about the fields of computer science and physics, always exploring how they intersect to solve real-world problems.
+
 
 ---
 
